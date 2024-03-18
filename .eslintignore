@@ -2,4 +2,6 @@ node_modules
 src
 teste.js
 knexFile.ts
+db
 env
+test
